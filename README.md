@@ -1,2 +1,2 @@
-# kaho2005.github.io
+# mergecal
 Pages for Outlook Calendar Sync OAuth app
